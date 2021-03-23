@@ -6,9 +6,9 @@ You must write down your instructions in advance. We call these stored instructi
 * You need to know programming language(Python)- vocabulary/grammer. make proper sentences.
 * you need to "Tell a story". program = story
 
-The reserved words in the language where 0]humans talk to Python include the following:
+The reserved words in the language where humans talk to Python include the following:
 
-****|****|0000|0000|
+****|****|****|****|
 ----|----|----|----|    
 and | del | global | not | with
 as | elif | if | or | yield
@@ -17,8 +17,3 @@ break | except |  in | raise
 class | finally | is | return
 continue | for | lambda | try
 def | from | nonlocal | while
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
