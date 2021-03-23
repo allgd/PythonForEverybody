@@ -1,4 +1,4 @@
-# test github
+## github
 # Python for Everybody
 
-starting with python and github
+Starting with python and github
