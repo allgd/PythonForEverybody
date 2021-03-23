@@ -8,7 +8,7 @@ You must write down your instructions in advance. We call these stored instructi
 
 The reserved words in the language where 0]humans talk to Python include the following:
 
-dd  |dd  |dd  |dd  |
+    |    |    |    |
 ----|----|----|----|    
 and | del | global | not | with
 as | elif | if | or | yield
