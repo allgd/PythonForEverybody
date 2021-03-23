@@ -8,8 +8,8 @@ You must write down your instructions in advance. We call these stored instructi
 
 The reserved words in the language where humans talk to Python include the following:
 
-****|****|****|****|
-----|----|----|----|    
+****|****|****|****|****|
+----|----|----|----|----|
 and | del | global | not | with
 as | elif | if | or | yield
 assert |  else | import|  pass
